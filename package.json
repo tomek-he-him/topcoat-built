@@ -1,0 +1,27 @@
+{
+  "name": "topcoat-built",
+  "version": "0.8.0",
+  "description": "CSS for clean and fast web apps, packaged for drop-in use",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomekwi/topcoat-built"
+  },
+  "license": {
+    "type": "Apache",
+    "url": "https://github.com/topcoat/topcoat/blob/master/LICENSE"
+  },
+  "homepage": "http://topcoat.io",
+  "keywords": [
+    "css",
+    "ui",
+    "ux",
+    "pattern",
+    "library",
+    "mobile",
+    "desktop",
+    "native",
+    "application",
+    "web",
+    "standards"
+  ]
+}
