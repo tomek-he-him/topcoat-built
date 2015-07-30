@@ -16,13 +16,13 @@ Usage
 Install with npm:
 
 ```sh
-npm install topcoat
+npm install topcoat-built
 ```
 
 Import into your CSS, LESS or the like:
 
 ```css
-@import "topcoat/mobile-light.css";
+@import "topcoat-built/mobile-light.css";
 ```
 
 – or directly into your document:
@@ -31,7 +31,7 @@ Import into your CSS, LESS or the like:
 <link
   rel="stylesheet"
   type="text/css"
-  href="node_modules/topcoat/mobile-light.min.css"
+  href="node_modules/topcoat-built/mobile-light.min.css"
 />
 ```
 
