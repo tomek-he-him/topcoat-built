@@ -1,10 +1,9 @@
-[Topcoat][]
-===========
+topcoat-built
+=================
 
 **CSS for clean and fast web apps**
 
-Note:  
-This is just a built, packaged version of the original [Topcoat][]. All credit goes to [contributors](https://github.com/topcoat/topcoat/blob/master/contributors.txt) of [the original project](https://github.com/topcoat/topcoat).
+NOTE: This is just a built, packaged version of the original **[Topcoat][]**. All credit goes to [contributors](https://github.com/topcoat/topcoat/blob/master/contributors.txt) of [the original project](https://github.com/topcoat/topcoat).
 
 [Topcoat]:  http://topcoat.io
 
